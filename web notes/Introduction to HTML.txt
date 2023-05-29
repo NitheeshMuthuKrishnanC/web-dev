@@ -1,0 +1,22 @@
+Introduction to HTML (Day 1)
+
+1) Add code runner extention
+2) Add Live server extention
+3) Add Prettier extention
+4) Add vscode-icons extention
+
+Open folder c://desktop/project file/Name-HTML
+
+create a file index.html under a folder Name-HTML 
+
+index.html -> <html> <head> -> <title>  <body> </html>(opening and closing tag)
+
+alernative use ' ! ' to get body template
+
+title -> name -> icon 
+
+rel="relation"
+href="Hypertext Reference" 
+type="x-size"
+
+link -> inline & external CSS

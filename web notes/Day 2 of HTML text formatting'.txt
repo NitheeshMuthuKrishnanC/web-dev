@@ -1,0 +1,11 @@
+Introduction to GitHub & GIT
+
+inline elements -> em,strong
+
+Block elements ->  <p> </p> 
+
+Tags ->  <Br>,<Hr> , <meta>
+
+assignment
+Hello everyone !
+I am (your name). I learning HTML Text formatting .
